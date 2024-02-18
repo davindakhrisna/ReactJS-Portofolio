@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ReactJS-Portofolio-Website/static/css/main.5646ecb8.css",
+    "main.js": "/ReactJS-Portofolio-Website/static/js/main.6f1e498b.js",
+    "static/js/592.8007b98d.chunk.js": "/ReactJS-Portofolio-Website/static/js/592.8007b98d.chunk.js",
+    "static/media/Davinda-Cv.pdf": "/ReactJS-Portofolio-Website/static/media/Davinda-Cv.0e020922b096547817e5.pdf",
+    "static/media/work2.png": "/ReactJS-Portofolio-Website/static/media/work2.65ceb8659065b4647875.png",
+    "static/media/work1.png": "/ReactJS-Portofolio-Website/static/media/work1.0fd4eed9717d3f130f11.png",
+    "static/media/work5.png": "/ReactJS-Portofolio-Website/static/media/work5.c264ed0f597b1253095b.png",
+    "static/media/about.jpg": "/ReactJS-Portofolio-Website/static/media/about.88425b42906379759112.jpg",
+    "static/media/profile.jpg": "/ReactJS-Portofolio-Website/static/media/profile.489c2467fb99dc78bae8.jpg",
+    "static/media/work3.png": "/ReactJS-Portofolio-Website/static/media/work3.83b7478a62a76feff72a.png",
+    "static/media/work4.png": "/ReactJS-Portofolio-Website/static/media/work4.9da17d4bd397ce009d3c.png",
+    "index.html": "/ReactJS-Portofolio-Website/index.html",
+    "main.5646ecb8.css.map": "/ReactJS-Portofolio-Website/static/css/main.5646ecb8.css.map",
+    "main.6f1e498b.js.map": "/ReactJS-Portofolio-Website/static/js/main.6f1e498b.js.map",
+    "592.8007b98d.chunk.js.map": "/ReactJS-Portofolio-Website/static/js/592.8007b98d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5646ecb8.css",
+    "static/js/main.6f1e498b.js"
+  ]
+}
